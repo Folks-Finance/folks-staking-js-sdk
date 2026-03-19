@@ -1,6 +1,6 @@
 {
   "name": "@folks-finance/folks-staking-sdk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The official JavaScript SDK for the $FOLKS Staking",
   "license": "MIT",
   "publishConfig": {
